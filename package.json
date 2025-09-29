@@ -11,8 +11,7 @@
     "build": "echo 'No build step required'"
   },
   "dependencies": {
-    "sqlite3": "^5.1.6",
-    "better-sqlite3": "^8.7.0"
+    "sqlite3": "^5.1.6"
   },
   "devDependencies": {
     "netlify-cli": "^17.0.0"

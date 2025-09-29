@@ -1,0 +1,14 @@
+{
+    "cwd": "/var/task",
+    "dbPath": "/var/task/data.db",
+    "dbExists": true,
+    "files": [
+        "___netlify-telemetry.mjs",
+        "data.db",
+        "debug.js",
+        "netlify",
+        "node_modules"
+    ],
+    "nodeVersion": "v18.20.8",
+    "sqliteStatus": "installed and accessible"
+}
