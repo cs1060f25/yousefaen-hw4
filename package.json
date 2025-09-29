@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "API for county health data",
   "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "netlify dev",
     "build": "echo 'No build step required'"
   },
   "dependencies": {
-    "sqlite3": "^5.1.6"
+    "sqlite3": "^5.1.6",
+    "better-sqlite3": "^8.7.0"
   },
   "devDependencies": {
     "netlify-cli": "^17.0.0"
